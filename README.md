@@ -1,3 +1,5 @@
+![PIKACHU MOD](assets/pikachu-mod-preview.png)
+
 ## Installation
 
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader) **v0.7.3** for `Stumble Guys.exe` using **x64**.
